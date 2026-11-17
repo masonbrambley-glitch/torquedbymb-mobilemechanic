@@ -1,0 +1,11 @@
+{
+  "name": "torquedbymb-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.4.3"
+  }
+}
